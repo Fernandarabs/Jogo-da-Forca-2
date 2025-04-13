@@ -14,7 +14,7 @@ const palavras = [
     {
       nome: "stormy",
       dica: "Pediatra, irmão de Sky proteje quem e importante para ele.",
-      imagem: "Sky.Png",
+      imagem: "Sky.png",
       personagem: "storn"
     },
     {
