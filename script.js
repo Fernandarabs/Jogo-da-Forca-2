@@ -8,7 +8,7 @@ const palavras = [
     {
       nome: "sky",
       dica: "Estudante de dança, orgulhoso e arrogante, sempre ta pronto para acabar com quem bate de frente com ele.",
-      imagem: "sky.png",
+      imagem: "Sky.png",
       personagem: "sky"
     },
     {
